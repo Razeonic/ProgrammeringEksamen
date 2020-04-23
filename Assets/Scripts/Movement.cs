@@ -12,9 +12,7 @@ public class Movement : MonoBehaviour
     public float speed;
     public float jump;
     float moveVelocity;
-    public Transform groundCheckPoint;
-    public float groundCheckRadius;
-    public LayerMask groundLayer;
+   
     //Grounded Var
     public bool grounded = true;
 

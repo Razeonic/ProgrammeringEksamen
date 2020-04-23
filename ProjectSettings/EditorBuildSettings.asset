@@ -6,18 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Sigurd.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 7697eeccbc72f5a43806d5ab2ccbff2b
   - enabled: 1
     path: Assets/Scenes/MainScene.unity
     guid: 364b57ec6accfcd48853462922e6e4ca
-  - enabled: 1
-    path: Assets/Scenes/Controls.unity
-    guid: 758901aad25bb034e915d8166928e008
-  - enabled: 1
-    path: Assets/Scenes/Frederik.unity
-    guid: 26880a09760874f418f0dadcaedc9677
   m_configObjects: {}
